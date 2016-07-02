@@ -14,7 +14,7 @@ $ sudo cp -i docker.lang /usr/share/gtksourceview-3.0/language-specs/docker.lang
 $ sudo chmod 644 /usr/share/gtksourceview-3.0/language-specs/docker.lang
 ```
 
-###### Restart Gedit
+###### Restart gedit
 
 # More information
 Please find more information here: https://developer.gnome.org/gtksourceview/stable/lang-tutorial.html
