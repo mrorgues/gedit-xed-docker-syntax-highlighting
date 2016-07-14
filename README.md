@@ -10,7 +10,7 @@ Let's fix that!
 
 ```
 $ wget -q https://raw.githubusercontent.com/mrorgues/gedit-xed-docker-syntax-highlighting/master/docker.lang
-$ sudo cp -i docker.lang /usr/share/gtksourceview-3.0/language-specs/docker.lang
+$ sudo mv -i docker.lang /usr/share/gtksourceview-3.0/language-specs/docker.lang
 $ sudo chmod 644 /usr/share/gtksourceview-3.0/language-specs/docker.lang
 ```
 
